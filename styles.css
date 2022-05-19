@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #000000;
+    color: white;
+    height: 40vh;
+    width: 100vw;
+
+}
+.jade{
+    position: absolute;
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+header h1{
+    margin-left: 40%;
+}
+img{
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 20px;
+    height: 50px;
+}
+header h3{
+    margin-left: 40%;
+    font-size: 23px;
+}
+header p{
+    margin-left: 40%;
+    width: 18%;
+    color: #C53CAF;
+    font-size: 13px;
+}
+.bloc{
+    background-color: #181818;
+    color: white;
+    height: 80vh;
+    width: 100vw;
+    margin-top: -10%;
+}
+.bloc h1{
+    margin-left: 10%;
+    font-size: 103px;
+}
+.judi{
+    margin-top: -4%;
+    position: absolute;
+}
+.bloc p{
+    margin-left: 10%;
+    color: #C53CAF;
+    margin-top: 5%;
+    font-size: 15px;
+}
+.jour{
+    position: absolute;
+    margin-top: 17%;
+    width: 50%;
+    margin-left: 5%;
+}
+.bloc button{
+    border-color: #C53CAF;
+    background-color: transparent;
+    margin-left: 10%;
+    color: #C53CAF;
+    height: 2vw;
+    width: 5%;
+    font-size: 10px;
+}
+button{
+    margin-top: 25%;
+    position: relative;
+}
+.bloc-violet{
+    background-color: #C53CAF;
+    height: 2vw;
+    width: 5px;
+    color: transparent;
+    margin-left: 145px;
+    position: absolute;
+    margin-top: -30px;
+}
+nav ul{
+    margin-top: -17%;
+}
+ul li{
+    color: transparent;
+    margin-left: 42%;
+    height: 2vh;
+    margin-top: 3%;
+}
+a{
+    color: #C53CAF;
+    text-decoration: none;
+    font-size: 15px;
+}
+.black .one{
+    background-color: black;
+    display: flex;
+    justify-content: end;
+    width: 10%;
+    margin-top: 5%;
+    margin-left: 80%;
+}
